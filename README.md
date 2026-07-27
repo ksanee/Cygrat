@@ -1,8 +1,8 @@
 # Cygrat
 # Windows RAT - Remote Access Trojan capable of a lot of things, mostly troll features
 # This program is meant for educational purposes only, with no intent of destruction of property. I am not responsible for any damage caused by this program. If you have gotten this, or any type of malware, do a factory reset.
-
-This shit will probably never become public, but i still wrote the features: 
+# Remember to scan any applications you download with tria.ge or virustotal.
+# Dm me on Telegram: ksanewashere for any bugs you would like to report, or any feedback!
 
 !sysinfo - System and IP info
 
